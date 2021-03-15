@@ -1,13 +1,3 @@
-Stalker auto install script v1.3.3 - RELEASE
-  * Added new mag devices support
-  * Fix bugs from Ubuntu 20.04
-  * Links for download changed
-  * Implemented support for Ubuntu 20.04
-  * fix problem with phing
-  * Patch composer
-  * Fix bugs
-  * Update links
-
 Stalker auto install script v1.3.2 - RELEASE
   * Implemented support for Ubuntu 20.04
   * fix problem with phing
@@ -21,10 +11,11 @@ Stalker auto install script v1.3.1 - RELEASE
   * Fix bugs
 
 Stalker auto install script v1.3.0 - RELEASE
-  * Update Version Ministra 5.6.5
-  * Patch composer
-  * Fix bugs
-  * Docker image update to last version Ministra 5.6.5
+
+Update Version Ministra 5.6.5
+Patch composer
+Fix bugs
+Docker image update to last version Ministra 5.6.5
 
 Stalker auto install script v1.2.9 - RELEASE
 
